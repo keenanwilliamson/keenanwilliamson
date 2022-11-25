@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keenanwilliamson
-- 👀 I’m interested in ... Android Mobile Development
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ... Nothing
+- 👀 I’m interested in ... IOS Mobile Development
+- 🌱 I’m currently learning ... Swift
+- 💞️ I’m looking to collaborate on ... an app
 - 📫 How to reach me ... keenanwilliamson01@gmail.com
 
 <!---
