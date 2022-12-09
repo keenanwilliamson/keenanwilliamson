@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keenanwilliamson
 - 👀 I’m interested in ... IOS Mobile Development
-- 🌱 I’m currently learning ... Swift
+- 🌱 I’m currently learning ... Swift/SwiftUI
 - 💞️ I’m looking to collaborate on ... an app
 - 📫 How to reach me ... keenanwilliamson01@gmail.com
 
